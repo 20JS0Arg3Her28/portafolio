@@ -101,10 +101,10 @@ function App() {
           <p>{t.connectDesc}</p>
           <ul className="social-links">
             <li>
-              <a href="https://github.com/Gustixa" target="_blank" rel="noreferrer">GitHub</a>
+              <a href="https://github.com/20JS0Arg3Her28" target="_blank" rel="noreferrer">GitHub</a>
             </li>
             <li>
-              <a href="https://www.linkedin.com/in/tu-perfil" target="_blank" rel="noreferrer">LinkedIn</a>
+              <a href="www.linkedin.com/in/samuel-argueta-1b0480200" target="_blank" rel="noreferrer">LinkedIn</a>
             </li>
           </ul>
         </div>
